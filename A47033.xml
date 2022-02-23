@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons remembrancer wherein the inhabitants thereof may review the Lords dealings with them in a few years last past, which is a warning to them to repent and not to persist in their wickedness, which brought down the judgements of God upon them.</title>
+            <author>Jones, E. (Evan)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47033</idno>
+            <idno type="STC">Wing J941</idno>
+            <idno type="STC">ESTC R13233</idno>
+            <idno type="EEBO-CITATION">12539480</idno>
+            <idno type="OCLC">ocm 12539480</idno>
+            <idno type="VID">62929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 671:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons remembrancer wherein the inhabitants thereof may review the Lords dealings with them in a few years last past, which is a warning to them to repent and not to persist in their wickedness, which brought down the judgements of God upon them.</title>
+                  <author>Jones, E. (Evan)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed, p. 6: E. Jones.</note>
+                  <note>Contains an account of the breaking up of the meetings at Peel and Mile End Green by soldiers.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62929:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:62929:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>LONDONS Remembrancer.</p>
+            <p>Wherein the Inhabitants thereof may review the Lords dealings with them in a few years laſt paſt.</p>
+            <p>Which is a warning to them to repent and not to perſiſt in their wickedneſs, which brought down the Judgements of God upon them.</p>
+            <p>LONDON Printed in the Year, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:62929:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="1" facs="tcp:62929:2"/>
+            <!-- PDF PAGE 47 -->
+            <p>OH ye the Inhabitants of the City of <hi>London,</hi> and of the parts ad<g ref="char:EOLhyphen"/>jacent the conſideration of your conditon have been often with me and the dealings of the Lord God Almighty towards you I have often pondered in my heart, and at this time it is in my heart to ſet it before you; to that intent that you alſo may weigh it and lay it to heart, and therein ſhall I be clear and you left without excuſe.</p>
+            <p>The Lord God Almighty out of the abundance of his mercy and loving kindneſs hath afforded unto your day of Viſitation (yea I may ſay Years) and he hath ſent his faithful Meſſengers to proclaim it in your ears, and by them you have been called to repentance and to amendment of life, yea they came amongſt you with their lives ready offered up to him who had call them to diſpoſe thereof as ſeemed good to him, and from you they did not wirk hold the de<g ref="char:EOLhyphen"/>termined will of God, but did faithfully declare it unto you and in the power and authority of him that ſent them, they did declare and ſhew unto you the vanity and emptyneſs of the ſeveral ſorts of vain profeſſions and high Notions you then were in, and how that they were not accepted nor acceptable with the Lord God, and they declared his controverſie that he had with the Sons and Daughters of Men becauſe of the hipocrifie of their ways, and they were endued with divine wiſdom, ſo that they did ſignifie unto you the rottenneſs and deceit of your hearts, and did ſignifie the diſpleaſure of God againſt you becauſe of your continuance in diſobedience, and alſo ſhewed unto you the deceit of thoſe which made a Trade of you who were inſtruments to keep you in darkneſs and ignorance, and they propheſied of their overturn; and that their nakedneſs ſhould appear, &amp; that your great airy building of vain profeſſion ſhould fall &amp; come to nothing and that it could not ſtand in the day of Tryal.</p>
+            <p>In all theſe things they were faithful, yea were faithful, and as many of them as is yet in the body who many of them have felt your cruelty is faithful, and thoſe who have departed have departed in peace, ſeveral of which being Priſoners in your Goals for the teſti<g ref="char:EOLhyphen"/>mony of Jeſus, have therein finiſhed their courſe.</p>
+            <p>So your day of profeſſion came to be tryed and you were con<g ref="char:EOLhyphen"/>founded and thoſe that boaſted of great things in a day of calm, was not able to ſtand in a day of tryal, ſo hear your great buildings came tumbling down, and your great heaps and gatherings came to be diſ<g ref="char:EOLhyphen"/>perſed,
+<pb n="2" facs="tcp:62929:3"/>
+               <!-- PDF PAGE 48 -->they not being gathered by the power of God, but ſtill the continuance of the large love of God was towards you, but ye re<g ref="char:EOLhyphen"/>belled againſt him and hated reproof, and would have none of his counſel and evilly entreated his Meſſengers then he raiſed many Prophets to propheſie what he did intend to do, and it was ſignified unto you that Graſs ſhould grow in <hi>London</hi> ſtreets, and the ſame ſig<g ref="char:EOLhyphen"/>nified unto you the cauſe of Gods diſpleaſure.</p>
+            <p>And alſo the Lord cauſed another to carry fire upon his head through your Fair in <hi>Smithfield</hi> even where there was ſo many wicked ungodly deſtructive meatings, <hi>viz.</hi> Stage-Plays and the like, held and tollerated where the Name of God was blaſphemed. You ſtill going on and acting deſpight againſt the ſpirit and the Meſſen<g ref="char:EOLhyphen"/>gers thereof throwing your Neighbours by hundreds and more in a day to your Goals even the Dens of deſtruction then you were warned again not to meddle with the Lords people, otherwiſe he would bring his Plague upon you and alſo the very Stars in the Fir<g ref="char:EOLhyphen"/>mament did ſignifie the fierce diſpleaſure and wrath of the Almighty, and though the Majicians imaginations and Diviners inventions concerning the thing could be ſtopped yet the determined purpoſe of our God, no Man nor Men can hinder.</p>
+            <p>Ah but how have you anſwered all theſe with many more pretious and timely warnings which you have had which here to particula<g ref="char:EOLhyphen"/>rize would be too tedious, have not many of you rather hardned your ſelves againſt the Lord and his people, then otherwiſe, and that did cauſe the Lord to haſten upon you Thoſe things which was foretold unto you, how did you fill your priſons with thoſe your innocent Neighbors who had believed the report of the Servants of the Lord, and knew the arm of the Lord revealed to ſave them from the wrath to come, I ſay how cruelly and inhumanely have you behaved your ſelves towards them the Lord hath it in remembrance yea many of the dear Servants of God have been ſtifled to death under your cruel hands, then did the Lords Wrath break forth a<g ref="char:EOLhyphen"/>gainſt you, and then was the Peſtilence within and Sword without, even at that time when you went to rent Families aſſunder, then I ſay, the Lords hand manif<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly appear againſt you, then was the young men dragged to the ſlaughter of the Swords and Peſt at home de<g ref="char:EOLhyphen"/>ſtroying thouſands, oh how was your houſes left deſolate in that day and then many of you fled for your lives; and the Lord was pleaſed
+<pb n="3" facs="tcp:62929:3"/>
+               <!-- PDF PAGE 48 -->to add to your days when ſo many thouſands fell both by Sword and Peſtilence.</p>
+            <p>And of one of your acts of inhumanity amongſt many I cannot o<g ref="char:EOLhyphen"/>mit to bring it back upon you and to put you in remembrance there<g ref="char:EOLhyphen"/>of, truly deſiring that you may find a place of repentance and thoſe your grievous ſins remitted and that you may never do the like again. The thing was this there being many innocent ſufferers in your Goal of <hi>Newgate;</hi> and had been there long before the ſickneſs, and was preſerved in bodily health alſo (as from the Peſt) long after the beginning of the Sickneſs, and upon a third day of the week there did as at other times ſome of the people of the Lord (reproachfully called <hi>Quakers</hi>) meet at the Peal in <hi>Johns-ſtreet</hi> to wait upon the Lord, and then was their peaceable Godly meeting broke by rude Souldiers, and the next day illegally there was 15 ſent to them at <hi>Newgate</hi> where they were much thronged for want of room before they being many in number, and alſo their being many Fellons and others, the Seſſions being then from time to time adjourned. So as I ſaid they had been in all this time preſerved, that not one of theſe innocent ſufferers had died in Priſon, but out of the aforeſaid 15 was brought in ſick to them and their bodies being ſubject to the like infirmities, therein was your cruelty manifeſted, his diſtemper grew more upon him ſo that ho laid down his body by name <hi>Benjamin Lawrence</hi> then more ſickned, and the next firſt day following was our peaceable Meeting at <hi>Mileend-green</hi> broke up by rude Souldiers and without having thoſe that were there met before any Magiſtrate, they were carryed forthwith to <hi>Newgate</hi> and ſo thronged up with the former inſomuch that the floor of the Rooms that they were confi<g ref="char:EOLhyphen"/>ned into was not ſufficient enough for their bodies to lye on, there being ſometimes 18 or 20 ſick together and ſometimes more ſo they were fain to hang up hammocks ſometimes 3 one above another a very unfit place for ſick Men or Women (as there was both) to be in. So that of thoſe innocent ſufferers that were there thronged to pri<g ref="char:EOLhyphen"/>ſon their died 52. and 27 which was ſhipped.</p>
+            <p>O horrible act that you who ſought to fly from ſuch a lamentable and ſore day of diſtreſs as that was ſhould act ſo inhumanely againſt your neighbours that inſtead of enlarging or ſeeking the enlarge<g ref="char:EOLhyphen"/>ment of your innocent peaceable neighbours did thus illegally throng them in order to deſtroy them, yea many was deſtroyed and
+<pb n="4" facs="tcp:62929:4"/>
+               <!-- PDF PAGE 49 -->it is the deſire of my ſoul that you would lay theſe things to heart, you even you who are ſpared to this day from the Sword and from the Peſtilence, oh that the remembrance thereof may not be for<g ref="char:EOLhyphen"/>gotten and looked upon as a common thing, but that you all may ſee wherefore it was; &amp; prize the large mercy &amp; loving kindneſs of our God to ſpare you to this day and to add thus much to your days and that which you were afraid of have not overtaken you, oh conſider that you muſt dye and behold the largeneſs of Gods love unto you before his beeſom of deſtruction ſweeps you away which certainly will overtake the workers of iniquity.</p>
+            <p>Alſo your pretended rejoycing was (and is) wont to be by fires, alas alas; how hath the Lords anger manifeſtly appeared againſt you, you had forgotten your former warnings and had not repented of the evil of your ways how was your famous City conſumed as it were in a moment even at that time when was wont to be the fore<g ref="char:EOLhyphen"/>mentioned ungodly deſtructive meetings in <hi>Smith field,</hi> though then forbidden by reaſon of the Sickneſs that year before, oh how was the Prophets words fulfilled and that in a ſhort time, oh what thronging out at your Gates, and what confuſion was amongſt you, which to mention particularly would be tedious, oh the diſtreſs of many in that day, even to ſee all as it were conſumed and they fain to flee to the open field, where the condition of many of your wo<g ref="char:EOLhyphen"/>men were very ſad your City in heaps laid and all the wit of men could not prevent it untill the Lord God ſaw it good, and then you could ſave part of a houſe when the other was burned, an eminent demonſtration of the mighty hand which before carried it on untill his determined purpoſe was finiſhed, and let none ſlight it, and ſay it was done ſo and ſo, and by ſuch and ſuch, I ſay had not there been a cauſe which ſtirred the Wrath of God againſt you, men could not ſo have their wills of you, and if there was wicked inſtruments the Lord may make a Rod and burn it when he hath done. So bere alſo came to paſs the fulfilling of the Propheſie, graſs to grow in your ſtreets, and not only ſo but alſo in the place of your delicate houſes and alſo they became as draft houſes.</p>
+            <p>Oh that a conſideration of all theſe things might have place with you &amp; that you would conſider &amp; weigh the dealings of the Almighty and how that now after all theſe ſtorms and tempeſts as it were, he hath given you eaſe and fulneſs in abundance and your affairs go<g ref="char:EOLhyphen"/>eth
+<pb n="5" facs="tcp:62929:4"/>
+               <!-- PDF PAGE 49 -->on even beyord the reaſon of man ſo to think that it ſhould when your City was in heaps; well the Lord God hath alſo afforded this unto you and he expects that you would give him the glory thereof.</p>
+            <p>And alſo he hath ſeen good to cauſe the red of perſecution to ceaſe from of the back of his Children who have ſtood in the Gap, and for whoſe ſakes you have obtained many mere yes and now at the pre<g ref="char:EOLhyphen"/>ſent a day of calm is come; and now oh ye Inhabitants of <hi>London</hi> and the parts adjacent, come behold your ſelves how are you now again a building and erecting that which God confounded and threw down (I mean not your houſes although there is a great deal of the pride of your hearts manifeſted thereby) but I ſpeak of thoſe Hipocritical forts of empty proteſſions, which the Lord God loaths, did you not ſee their emptineſs in that day when thoſe blind leaders left you to theſe that had no health in them being miſerable ſinners; though formerly you had other belief concerning them when they told you of ſtanding in the day of Tryal, but when the day of Tryal came how did they leave you to the forementioned to prey upon, and how ma<g ref="char:EOLhyphen"/>ny of them are become one with them, and how the reſt have hidden themſelves in holes expecting a day to prey upon you again, and now as I ſaid the faithful through ſuffering having purchaſed their freedom even this calm, now like ſo many old Adders we can ſee them come out of their holes, and now (as formerly when in their proſperity) they hiſs and caſt out their venome at the truth, and ſpeak evil of them that ſtood in the Gap in the power thereof.</p>
+            <p>So as I ſaid behold your doings how that now after ſo many judgements wherewith the Lord hath viſited you, you are now a<g ref="char:EOLhyphen"/>gain running a whoreing after mens inventions; and but a few a<g ref="char:EOLhyphen"/>mongſt you that lays it truly to heart, and that conſiders his latter end. So that the cauſe inſtill remaining for which the wrath of God hath been ſo manifeſtly ſeen againſt you; and inſtead of ſeeking the removing thereof, you daily add thereunto; and ſo provoke the Lord to anger, have you not conſidered the hand of God in many things which hath hapned ſince you began to rebuild your City even the ſudden death of many even by a ſtrange diſtemper and alſo ſome houſes that fell deſtroying others, and alſo the firing of a great new building do you look upon theſe things as chances, I tell you the hand of the Lord is ſeen in theſe things, end it were well if you could ſee it that you might eſcape the Wrath that it foretells for it may be told you as it was told a generation like you, think ye that they that
+<pb n="6" facs="tcp:62929:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 50 -->died thus were greater ſinners then your ſelves, <hi>except ye repent ye ſhall alſo periſh.</hi>
+            </p>
+            <p>The wild and the wanton, the proud and the haughty the extortio<g ref="char:EOLhyphen"/>ner and deceiver, the oppreſſor and covetous, the drunkard and a<g ref="char:EOLhyphen"/>duloever, the unreaſonable and cruel. the ſenſual and deviliſh, the bruitiſh and beaſtly, the ſtubborn and rebellious, the diſobedient and unholy, the murdered and deſtroyer is found within thee O <hi>London.</hi>
+            </p>
+            <p>So you that would eſcape the wrath due to the forementioned and the like, you muſt come to that in you that reproves you for theſe things, and every particular, for what of them thou art guilty, thy way is to believe in the light which he reproveth thee in the ſecret of thy heart, and brings condemnation upon thee for that which no man outwardly perhaps can tax thee withall; but Chriſt knows it and his righteous judgement thou cannot eſcape what ever coverings thou maiſt make ſeeking thereby to cover thy deceit, ſo all you who have hitherto neglected your day of viſitation and have been ſeeking the living among the dead, and hewing to your ſelves Ceſterns; even broken Ceſterns, that cannot hold water this is my counſel from the Lord to you even to turn to that of God in you and that ſpeedily for your ſtate is very deſperate, but if you thus ſtill go on and will not be reclaimed, then a day of diſtreſs will o<g ref="char:EOLhyphen"/>vertake you, even ſuch as hitherto have not overtaken you; therefore be warned and ſeek the Lord God by true and unfeigned repentance.</p>
+            <closer>
+               <dateline>
+                  <date>The firſt day of the firſt Month, 1670.</date>
+               </dateline> 
+               <signed>E. Jones</signed>
+            </closer>
+            <postscript>
+               <p>All you who in the places aforeſaid (or elſewhere) have believed in the Lord Jeſus Chriſt, my ſoul is one with you in the covenant of light, you have taſted of the judgements of the Lord; and have known his terrors becauſe of ſin and diſobedience and by the effectual working of the word of life in you, you have been led to true repentance ſo you came to know the power of God to remit, and thus you came to witneſs the waſhing of your conſciences from the defilements which did incur the anger and diſpleaſure of God, and now you know the peace which paſſeth the underſtanding of the natural man, and you know the ſtrong tower and therein you are preſerved that the evil one cannot touch you, and now no evil tiding can make you affraid, dear and well beloved friends, let none go out of the tower which is the name of the Lord, the light the truth, the life, leaſt thou be deſtroyed with the wicked, and you whoſe faces is as it were but turned to this way, look not back, abide the judgement, abide the indignation for through theſe you muſt come and herein you will <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the mercy and ſee that judgement is expedient for you that the Prince of <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
